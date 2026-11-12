@@ -1,0 +1,18 @@
+LIBRARY   DesktopBanner
+
+EXPORTS
+    Banner_GetVersion
+    Banner_GetDefaultOptions
+    Banner_Init
+    Banner_InitEx
+    Banner_SetStyle
+    Banner_SetBackground
+    Banner_SetTextColor
+    Banner_SetSpeed
+    Banner_SetFontSize
+    Banner_SetFrost
+    Banner_SetTextW
+    Banner_SetTextA
+    Banner_Close
+    Banner_IsActive
+    Banner_GetLastError
